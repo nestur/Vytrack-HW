@@ -8,6 +8,10 @@ public class DashboardPage extends BasePage{
     public static void deneme(){
         System.out.println("hello");
         //deniyoruz
+
+        System.out.println("merhaba");
     }
+
+
 
 }
