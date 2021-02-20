@@ -1,7 +1,12 @@
 package com.cybertek.pages;
 
-public class DashboardPage extends BasePage{
+import org.testng.annotations.BeforeMethod;
 
+public class DashboardPage extends BasePage{
     //no need to explicitly write constructor, because it will use its parents constructor
+    @BeforeMethod
+    public static void deneme(){
+        System.out.println("hello");
+    }
 
 }
