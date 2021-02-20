@@ -9,9 +9,9 @@ public class DashboardPage extends BasePage{
         System.out.println("hello");
         //deniyoruz
 
-        System.out.println("merhaba");
+        System.out.println("merhaba dunya");
     }
-
-
-
+    public void deneme2(){
+        System.out.println("yeni bir deneme");
+    }
 }
