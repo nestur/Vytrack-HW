@@ -7,6 +7,7 @@ public class DashboardPage extends BasePage{
     @BeforeMethod
     public static void deneme(){
         System.out.println("hello");
+        //deniyoruz
     }
 
 }
